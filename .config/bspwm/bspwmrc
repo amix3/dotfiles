@@ -20,7 +20,7 @@ nitrogen --restore &
 dbus-launch dunst --config ~/.config/dunst/dunstrc &
 lxpolkit &
 numlockx on &
-#nm-applet &
+nm-applet &
 xss-lock -l ~/.scripts/transfer-sleep-lock-i3lock.sh &
 
 # # # # # #
