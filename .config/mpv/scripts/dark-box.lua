@@ -34,7 +34,7 @@ local user_opts = {
     iamaprogrammer = false,     -- use native mpv values and disable OSC
                                 -- internal track list management (and some
                                 -- functions that depend on it)
-	font = "Fira Sans Book",	-- default osc font
+	font = "Cantarell",	-- default osc font
     layout = "default",			-- default only!!
     seekbarstyle = "bar",      -- bar, diamond or knob
     seekbarhandlesize = 1,	-- size ratio of the diamond and knob handle
