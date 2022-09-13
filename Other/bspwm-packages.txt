@@ -16,3 +16,6 @@ flameshot
 dunst
 lxappearance
 nautilus
+xss-lock
+i3lock
+xsetroot
